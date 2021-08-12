@@ -35,9 +35,11 @@ Connect the '*MIDI out*' of the drum to '*MIDI in*' of the connector and '*MIDI 
 
 **NOTE!** If this doesn't work try pluging in the connectors to the seperate USB ports of the PC.
 
-**Step 5** ![image](https://user-images.githubusercontent.com/88151522/129152471-330fa9db-55a4-4b6c-bf61-2671f5c0002d.png)
+**Step 5** 
 
+In FL Studio open channel rack![image](https://user-images.githubusercontent.com/88151522/129152471-330fa9db-55a4-4b6c-bf61-2671f5c0002d.png)
 
-
-
+On the bottom-left side of the picture you see the Addictive drums, drag it and drop it to the rack.
+Once it is opened you can close the channel rack, and click the question mark on the top-right corner
+![image](https://user-images.githubusercontent.com/88151522/129153302-cfc9cf15-fe2a-4b4f-b4d4-9c99d330a5b2.png)
 
