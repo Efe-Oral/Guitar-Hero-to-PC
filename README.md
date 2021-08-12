@@ -46,4 +46,9 @@ Once it is opened you can close the channel rack, and click the question mark on
 
 From here you can choose the instruments for your kit. For example you want snare drum on your kit's red pad. Just select the snare option and press the *L* symbol and than hit the red pad with sticks, that way it will assing the sound to the pad.
 
+![Screenshot 2021-08-12 153708](https://user-images.githubusercontent.com/88151522/129197982-420fd352-eb18-4c8c-a503-95629a45f994.png)
+
+
+ And thats it, assing each instrument to the pad you want and you are ready to go.
+
 
