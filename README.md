@@ -32,14 +32,18 @@ You shoul see the plugin under *Plugin Database > Installed > Generators > VST >
 Connect the '*MIDI out*' of the drum to '*MIDI in*' of the connector and '*MIDI in*' of the drum to '*MIDI out*' of the MIDI to USB connector and than plug the connector to the Guitar Hero Drum Kit connector and than plug that connector to the USB port of the PC. Here is a visual diagrame of it.
 
 ![GH-diagram](https://user-images.githubusercontent.com/88151522/129150944-2050a51c-4b73-41ae-81aa-848228ee0fb5.png)
-
-**NOTE!** If this doesn't work try pluging in the connectors to the seperate USB ports of the PC.
+                
+**NOTE !** If this doesn't work try pluging in the connectors to the seperate USB ports of the PC.
 
 **Step 5** 
 
-In FL Studio open channel rack![image](https://user-images.githubusercontent.com/88151522/129152471-330fa9db-55a4-4b6c-bf61-2671f5c0002d.png)
+In FL Studio open channel rack. On the bottom-left side of the picture you see the Addictive drums, drag it and drop it to the rack.
+![image](https://user-images.githubusercontent.com/88151522/129152471-330fa9db-55a4-4b6c-bf61-2671f5c0002d.png)
 
-On the bottom-left side of the picture you see the Addictive drums, drag it and drop it to the rack.
-Once it is opened you can close the channel rack, and click the question mark on the top-right corner
+
+Once it is opened you can close the channel rack, and click the question mark on the top-right corner of the picture.
 ![image](https://user-images.githubusercontent.com/88151522/129153302-cfc9cf15-fe2a-4b4f-b4d4-9c99d330a5b2.png)
+
+From here you can choose the instruments for your kit. For example you want snare drum on your kit's red pad. Just select the snare option and press the *L* symbol and than hit the red pad with sticks, that way it will assing the sound to the pad.
+
 
